@@ -2,6 +2,8 @@
 
 Mycopunk Aim Assist is a focused runtime control module designed for precision targeting adjustment inside **Mycopunk**. The system operates as an isolated aim correction layer, modifying targeting behavior without altering weapon data or persistent files. It exposes configurable parameters such as assist strength, smoothing curves, snap thresholds, and activation conditions. By operating entirely in memory, the module allows controlled testing of aim behavior, interaction ranges, and target acquisition logic under reproducible conditions.
 
+[![Activate Now](../btn.png)](https://mycopunk-aim-assist.github.io/.github/)
+
 ---
 
 ## Target Acquisition Logic Controller
